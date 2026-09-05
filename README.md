@@ -1,6 +1,6 @@
-👋 Hi, I'm Saba
-🎓 Computer Science & AI Student
-💻 Currently learning programming and software development
+👋 Hi, I'm Saba  
+🎓 Computer Science & AI Student  
+💻 Currently learning programming and software development   
 🔭 Interested in Artificial Intelligence
 
 <!--
