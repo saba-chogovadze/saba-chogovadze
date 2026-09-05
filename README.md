@@ -1,4 +1,7 @@
-## Hi there 👋
+👋 Hi, I'm Saba
+🎓 Computer Science & AI Student
+💻 Currently learning programming and software development
+🔭 Interested in Artificial Intelligence
 
 <!--
 **saba-chogovadze/saba-chogovadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
